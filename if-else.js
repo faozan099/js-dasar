@@ -17,7 +17,7 @@ let angkotBeroprasi = 6;
 
 for(let noAngkot = 1; noAngkot <= jumlahAngkot; noAngkot++) {
     if(noAngkot <= 6){
-        console.log('angkot no ' + noAngkot + ' angkot sedang beroperasi.');
+        console.log('Mobil no ' + noAngkot + ' angkot sedang beroperasi.');
     } else{
         console.log('angkot no ' + noAngkot + ' tidak beroperasi.');
     }
